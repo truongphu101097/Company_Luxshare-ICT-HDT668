@@ -1,0 +1,75 @@
+[19:04:47:944]\\?\hid#dell09c2&col02#5&bc4dc33&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:944]\\?\hid#dell09c2&col03#5&bc4dc33&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:944]\\?\hid#intc816&col01#3&207f9b7f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:944]\\?\hid#vid_046d&pid_0adf&mi_04#7&2ad3f249&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:944]\\?\hid#intc816&col02#3&207f9b7f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:944]\\?\hid#converteddevice&col02#5&17bac0a6&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:944]\\?\hid#converteddevice&col03#5&17bac0a6&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:944]\\?\hid#dell09c2&col04#5&bc4dc33&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:945]\\?\hid#{00001812-0000-1000-8000-00805f9b34fb}_dev_vid&0232c2_pid&0001_rev&0068_ccb624cd66b1#9&326e3aae&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:945]\\?\hid#dell09c2&col05#5&bc4dc33&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:945]\\?\hid#vid_046d&pid_0adf&mi_00#7&28ee3ab8&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:945]\\?\hid#converteddevice&col01#5&17bac0a6&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd
+[19:04:47:945]\\?\hid#dell09c2&col01#5&bc4dc33&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:946]try_path=\\?\hid#vid_046d&pid_0adf&mi_04#7&2ad3f249&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:957][invalid device][System.Exception]
+[19:04:47:961]   at ..connect(String path)
+[19:04:47:961]close_hid_handle
+[19:04:47:964][connect HID device fail : invalid device][System.Exception]
+[19:04:47:964]   at ..connect(String path)
+   at ..(String  )
+   at ..connect(UInt16 vid, UInt16 pid,  vt)
+[19:04:47:964]try_path=\\?\hid#vid_046d&pid_0adf&mi_00#7&28ee3ab8&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:964]	InputReportByteLength=65
+[19:04:47:964]	OutputReportByteLength=65
+[19:04:47:964]HID_Connected=\\?\hid#vid_046d&pid_0adf&mi_00#7&28ee3ab8&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:47:965][HID_TX]00-84-01-D1-55-01-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:47:966]HidD_GetInputReport=True
+[19:04:47:966]reply_report=00-4F-56-31-2E-36-2E-31-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:47:966][ys_tech] fw_version=V1.6.1
+[19:04:47:967]ystech_Power_Saving, is_EnablePowerSaving=False
+[19:04:47:967][HID_TX]00-85-01-83-8B-01-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:47:968]HidD_GetInputReport=True
+[19:04:47:968]reply_report=00-4F-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:47:968]HID_CMD_POWER_SAVING_Disable
+[19:04:47:968]path_connected=\\?\hid#vid_046d&pid_0adf&mi_00#7&28ee3ab8&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[19:04:51:518][HID_TX]00-80-06-1C-7D-50-41-0E-01-01-E0-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:51:519]HidD_GetInputReport=True
+[19:04:51:519]reply_report=00-4F-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:51:519]50-41-0E-01-01-E0 [CMD_SENT][REMOTE_GET_MODE]
+[19:04:51:522][HID_TX_ack]00-19-50-49-01-C0-7C-64-00-00-03-00-0E-81-00-50-49-0E-C4-00-00-00-00-02-00-E0-00-13-01-00-01-00-01-00-00-00-31-00-01-00-08-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:52:139]REMOTE_GET_MODE=00
+[19:04:52:139]50-49-01-C0-7C-64-00-00-03-00-0E-81-00
+[19:04:52:139]50-49-0E-C4-00-00-00-00-02-00-E0-00-
+[19:04:52:140][HID_TX]00-80-08-21-B0-50-41-07-02-03-08-00-E4-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:52:141]HidD_GetInputReport=True
+[19:04:52:141]reply_report=00-4F-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:52:141]50-41-07-02-03-08-00-E4 [CMD_SENT] [CMD_SENT][UNKNOW]
+[19:04:52:194][HID_TX_ack]00-0F-50-49-01-C0-96-66-00-00-05-00-07-82-08-00-00-0E-C4-00-00-00-00-02-00-E0-00-13-01-00-01-00-01-00-00-00-31-00-01-00-08-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:04:52:194]50-49-01-C0-96-66-00-00-05-00-07-82-08-00-00
+[19:05:01:632][The device is not connected.
+][System.IO.IOException]
+[19:05:01:632]   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.BeginReadCore(Byte[] bytes, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject, Int32 numBufferedBytesRead)
+   at System.IO.FileStream.BeginReadAsync(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.FileStream.BeginRead(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at ..()
+[19:05:01:632]ystech_Power_Saving, is_EnablePowerSaving=True
+[19:05:01:633][HID_TX]00-85-01-73-56-02-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[19:05:01:640][The device is not connected.
+][System.IO.IOException]
+[19:05:01:640]   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.BeginWriteCore(Byte[] bytes, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.FileStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.FileStream.Write(Byte[] array, Int32 offset, Int32 count)
+   at ..(Byte  , Byte[]  )
+[19:05:01:643][connect HID device fail : The device is not connected.
+][System.Exception]
+[19:05:01:643]   at ..(Byte  , Byte[]  )
+   at ..(Boolean  )
+   at ..close()
+[19:05:01:643]close_hid_stream
+[19:05:01:646][External component has thrown an exception.][System.Runtime.InteropServices.SEHException]
+[19:05:01:646]   at ..(IntPtr  )
+   at ..close()
+[19:05:08:456][HID_TX]00-80-06-F7-52-50-41-0E-03-01-E0-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00

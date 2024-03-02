@@ -1,0 +1,13 @@
+﻿TXPID=0ADF
+TXVID=046D
+RXPID=0ACB
+RXVID=046D
+CylinderComport=COM6
+CBCComport=COM20
+RFDongleBD=4058990007F3
+Mesflag=0
+standaloneModel=85X647001001
+LeftPower=-3
+RightPower=-3	
+LeftRSSI=-3
+RightRSSI=-3

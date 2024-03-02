@@ -1,0 +1,3 @@
+1,獲取耳機電池電壓CBC方式,N/A,3.75,3.9,2,HeadsetBatteryVoltage
+2,耳機讀CBC_FW,N/A,V3.0.1.10,V3.0.1.10,1,HeadsetReadFW_CBC
+3,LED校準_CBC,N/A,N/A,N/A,1,LEDCalibration_CBC

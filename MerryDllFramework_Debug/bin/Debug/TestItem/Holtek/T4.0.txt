@@ -1,0 +1,12 @@
+1,Play music,N/A,N/A,N/A,4,dllname=Audio&播放音乐测试=PlayTest&装置名称=G435&选择音频=0&显示内容信息=播放音乐
+2,Recording test,N/A,N/A,N/A,6,dllname=Audio&录音测试=RecordTest&装置名称=G435&显示内容信息=录音测试
+3,Enter Dongle DFU,N/A,N/A,N/A,1,EnterDFU
+4,Read_Holtek_FW,N/A,V1.8.5.1,V1.8.5.1,1,ReadRTKFW
+5,Enter dongle mode,N/A,N/A,N/A,1,DongleModel
+6,Check_Holtek_Dongle_FW,N/A,V100.0.1.14,V100.0.1.14,1,ReadFW
+7,Enter Headset Model,N/A,N/A,N/A,1,HeadsetModel
+8,Check_Holtek_HeadsetFW|2000,N/A,V100.0.1.14,V100.0.1.14,1,ReadFW
+9,Voltage detection,N/A,3.75,3.9,2,GetBattery
+10,Delete Bluetooth pairing information,N/A,N/A,N/A,1,DeleteBluetoothPair
+11,Enter dongle mode,N/A,N/A,N/A,1,DongleModel
+12,Exit DFU mode+,N/A,N/A,N/A,1,ExitDFU

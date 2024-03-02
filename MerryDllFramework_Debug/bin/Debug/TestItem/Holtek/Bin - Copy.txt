@@ -1,0 +1,2 @@
+1,Check_Holtek_HeadsetFW_CBC|2000,N/A,V100.0.1.14,V100.0.1.14,1,HeadsetReadFW_CBC
+2,LED校准_CBC,N/A,N/A,N/A,1,LEDCalibration_CBC

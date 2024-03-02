@@ -1,0 +1,8 @@
+1,Enter_Dongle_DFU_Mode,N/A,N/A,N/A,1,EnterDFU
+2,Read_Dongle_Station_Flag,N/A,N/A,N/A,3,ReadTestStationInfo
+3,Read_Holtek_FW,N/A,V1.6.1,V1.6.1,1,ReadRTKFW
+4,Check_Holtek_Dongle_FW,N/A,V100.0.1.10,V100.0.1.10,1,ReadFW
+5,Get_Dongle_BDA_MES,N/A,N/A,N/A,6,dllname=MES&获取BD和=GetBDFromMES
+6,Write_Dongle_BDA_MES,N/A,N/A,N/A,3,WirteBDA
+7,Check_Dongle_BDA,N/A,N/A,N/A,3,CheckBDA
+8,Enter_Dongle_DUT_Mode,N/A,N/A,N/A,1,EnterDUT

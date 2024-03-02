@@ -1,0 +1,66 @@
+[12:03:37:486]\\?\hid#dell09c2&col02#5&bc4dc33&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:486]\\?\hid#dell09c2&col03#5&bc4dc33&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:486]\\?\hid#intc816&col01#3&207f9b7f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:486]\\?\hid#intc816&col02#3&207f9b7f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:486]\\?\hid#converteddevice&col02#5&17bac0a6&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:486]\\?\hid#converteddevice&col03#5&17bac0a6&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:486]\\?\hid#dell09c2&col04#5&bc4dc33&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:486]\\?\hid#{00001812-0000-1000-8000-00805f9b34fb}_dev_vid&0232c2_pid&0001_rev&0068_ccb624cd66b1#9&326e3aae&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:487]\\?\hid#dell09c2&col05#5&bc4dc33&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:487]\\?\hid#converteddevice&col01#5&17bac0a6&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd
+[12:03:37:487]\\?\hid#dell09c2&col01#5&bc4dc33&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:487]\\?\hid#vid_046d&pid_0adf&mi_00#7&3ad8dff3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:487]\\?\hid#vid_046d&pid_0adf&mi_04#7&18e94d0e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:489]try_path=\\?\hid#vid_046d&pid_0adf&mi_00#7&3ad8dff3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:491]	InputReportByteLength=65
+[12:03:37:491]	OutputReportByteLength=65
+[12:03:37:492]HID_Connected=\\?\hid#vid_046d&pid_0adf&mi_00#7&3ad8dff3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:37:492][HID_TX]00-84-01-D1-55-01-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:37:494]HidD_GetInputReport=True
+[12:03:37:494]reply_report=00-4F-56-31-2E-38-2E-35-2E-31-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:37:494][ys_tech] fw_version=V1.8.5.1
+[12:03:37:495]ystech_Power_Saving, is_EnablePowerSaving=False
+[12:03:37:495][HID_TX]00-85-01-83-8B-01-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:37:496]HidD_GetInputReport=True
+[12:03:37:496]reply_report=00-4F-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:37:496]HID_CMD_POWER_SAVING_Disable
+[12:03:37:496]path_connected=\\?\hid#vid_046d&pid_0adf&mi_00#7&3ad8dff3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[12:03:38:672][HID_TX]00-80-06-1C-7D-50-41-0E-01-01-E0-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:38:673]HidD_GetInputReport=True
+[12:03:38:673]reply_report=00-4F-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:38:673]50-41-0E-01-01-E0 [CMD_SENT][REMOTE_GET_MODE]
+[12:03:38:677][HID_TX_ack]00-19-50-49-01-C0-9D-99-00-00-03-00-0E-81-00-50-49-0E-CB-00-00-00-00-02-00-E0-01-00-32-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:38:681]REMOTE_GET_MODE=01
+[12:03:38:681]50-49-01-C0-9D-99-00-00-03-00-0E-81-00
+[12:03:38:681]50-49-0E-CB-00-00-00-00-02-00-E0-01-
+[12:03:38:681][HID_TX]00-80-07-1B-E1-50-41-06-02-01-00-63-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:38:682]HidD_GetInputReport=True
+[12:03:38:682]reply_report=00-4F-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:38:682]50-41-06-02-01-00-63 [CMD_SENT][CMD_GET_IO_LEVEL]
+[12:03:38:685][HID_TX_ack]00-0D-50-49-01-C0-9D-99-00-00-03-00-06-82-FF-50-49-0E-CB-00-00-00-00-02-00-E0-01-00-32-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:38:685]50-49-01-C0-9D-99-00-00-03-00-06-82-FF
+[12:03:43:223][The device is not connected.
+][System.IO.IOException]
+[12:03:43:223]   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.BeginReadCore(Byte[] bytes, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject, Int32 numBufferedBytesRead)
+   at System.IO.FileStream.BeginReadAsync(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.FileStream.BeginRead(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at ..()
+[12:03:43:223]ystech_Power_Saving, is_EnablePowerSaving=True
+[12:03:43:223][HID_TX]00-85-01-73-56-02-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+[12:03:43:231][The device is not connected.
+][System.IO.IOException]
+[12:03:43:231]   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.BeginWriteCore(Byte[] bytes, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.FileStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.FileStream.Write(Byte[] array, Int32 offset, Int32 count)
+   at ..(Byte  , Byte[]  )
+[12:03:43:234][connect HID device fail : The device is not connected.
+][System.Exception]
+[12:03:43:234]   at ..(Byte  , Byte[]  )
+   at ..(Boolean  )
+   at ..close()
+[12:03:43:234]close_hid_stream
+[12:03:43:238][External component has thrown an exception.][System.Runtime.InteropServices.SEHException]
+[12:03:43:238]   at ..(IntPtr  )
+   at ..close()

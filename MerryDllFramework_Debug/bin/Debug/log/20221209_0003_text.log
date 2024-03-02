@@ -1,0 +1,59 @@
+[08:22:54:466]connect_auto_select
+[08:22:54:493]\\?\hid#dell0a23&col03#5&184b7e16&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:493]\\?\hid#dell0a23&col04#5&184b7e16&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:493]\\?\hid#vid_046d&pid_c077#7&1c7c88ed&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:493]\\?\hid#vid_046d&pid_0adf&mi_04#7&18e94d0e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:493]\\?\hid#vid_17ef&pid_6100&mi_01&col01#8&11d7c966&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:493]\\?\hid#vid_ffff&pid_bace&rev_0002&mi_00&col03#3&258c3fbc&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:494]\\?\hid#vid_17ef&pid_6100&mi_01&col02#8&11d7c966&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:494]\\?\hid#vid_ffff&pid_bace&rev_0002&mi_00&col04#3&258c3fbc&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:494]\\?\hid#intc816#3&d2322f2&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:494]\\?\hid#vid_046d&pid_0adf&mi_00#7&3ad8dff3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:494]\\?\hid#vid_ffff&pid_bace&rev_0002&mi_00&col05#3&258c3fbc&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:494]\\?\hid#vid_ffff&pid_bace&rev_0002&mi_00&col01#3&258c3fbc&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd
+[08:22:54:494]\\?\hid#converteddevice&col02#5&32cf90e6&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:494]\\?\hid#converteddevice&col03#5&32cf90e6&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:494]\\?\hid#vid_ffff&pid_bace&rev_0002&mi_00&col02#3&258c3fbc&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd
+[08:22:54:494]\\?\hid#converteddevice&col01#5&32cf90e6&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd
+[08:22:54:494]\\?\hid#vid_17ef&pid_6100&mi_00#8&299b55ab&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd
+[08:22:54:494]\\?\hid#dell0a23&col01#5&184b7e16&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:494]\\?\hid#dell0a23&col02#5&184b7e16&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+[08:22:54:510]id=VID=046D,PID=C077
+[08:22:54:511]	getCaps=null
+[08:22:54:511]CloseHandleX
+[08:22:54:511]id=VID=046D,PID=0ADF
+[08:22:54:511]	getCaps=null
+[08:22:54:511]CloseHandleX
+[08:22:54:511]id=VID=17EF,PID=6100
+[08:22:54:511]	getCaps=null
+[08:22:54:511]CloseHandleX
+[08:22:54:511]id=VID=FFFF,PID=BACE
+[08:22:54:511]	getCaps=null
+[08:22:54:511]CloseHandleX
+[08:22:54:511]id=VID=17EF,PID=6100
+[08:22:54:511]	caps.InputReportByteLength=0
+[08:22:54:511]	caps.OutputReportByteLength=0
+[08:22:54:511]	attributes.VendorID=0x17EF
+[08:22:54:511]	attributes.ProductID=0x6100
+[08:22:54:511]	SerialNumberString=㩸ځ喸ڀ
+[08:22:54:512]	ManufacturerString=LiteOn
+[08:22:54:515]	ProductString=Lenovo New Calliope USB Keyboard
+[08:22:54:515]CloseHandleX
+[08:22:54:516]id=VID=FFFF,PID=BACE
+[08:22:54:516]	getCaps=null
+[08:22:54:516]CloseHandleX
+[08:22:54:516]id=VID=046D,PID=0ADF
+[08:22:54:516]	getCaps=null
+[08:22:54:516]CloseHandleX
+[08:22:54:516]id=VID=FFFF,PID=BACE
+[08:22:54:516]	getCaps=null
+[08:22:54:516]CloseHandleX
+[08:22:54:516]id=VID=FFFF,PID=BACE
+[08:22:54:516]	getCaps=null
+[08:22:54:516]CloseHandleX
+[08:22:54:516]id=VID=FFFF,PID=BACE
+[08:22:54:516]	getCaps=null
+[08:22:54:516]CloseHandleX
+[08:22:54:516]id=VID=17EF,PID=6100
+[08:22:54:516]	getCaps=null
+[08:22:54:516]CloseHandleX

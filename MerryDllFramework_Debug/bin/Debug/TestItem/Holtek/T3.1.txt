@@ -1,0 +1,4 @@
+1,Bar_Code_Window,N/A,N/A,N/A,6,dllname=MES&扫条码=BarCodeWindow
+2,CheckBarcode,N/A,N/A,N/A,6,dllname=MES&method=QueryKeyPart
+3,Enter Dongle DFU,N/A,N/A,N/A,1,EnterDFU
+4,Exit_Dongle_DFU_Mode+,N/A,N/A,N/A,1,ExitDFU

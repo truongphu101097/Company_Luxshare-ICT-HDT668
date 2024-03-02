@@ -1,0 +1,271 @@
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT668.dll
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT668.pdb
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.pdb
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.xml
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csprojAssemblyReference.cache
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT668.dll
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT668.pdb
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.pdb
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\AWToolLIB2.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\PC_VolumeControl.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MESDLL.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\SwATE_Net.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Bass.Net.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.pdb
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.xml
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.dll
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.pdb
+C:\Users\CH190360\Desktop\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.dll
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.pdb
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\AWToolLIB2.dll
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MESDLL.DLL
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\PC_VolumeControl.dll
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\SwATE_Net.dll
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Bass.Net.dll
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.pdb
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.xml
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.dll
+L:\工程部\工程課\TE測試文件\SW\王菅物\MECH\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.pdb
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.dll
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.pdb
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\AWToolLIB2.dll
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\SwATE_Net.dll
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Bass.Net.dll
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.pdb
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.xml
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.dll
+C:\Users\CH210005\Desktop\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.pdb
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.pdb
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.pdb
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\HDT647.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\HDT647.pdb
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\AWToolLIB2.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\SwATE_Net.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\Bass.Net.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.pdb
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.xml
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\obj\Debug\HDT647.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug - 副本\MerryDllFramework\obj\Debug\HDT647.pdb
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\SwATE_Net.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Bass.Net.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.pdb
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.xml
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\NAudio.dll
+C:\Users\CH210005\Desktop\HDT647\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.dll
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT647.pdb
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.dll
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\NAudio.dll
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\SwATE_Net.dll
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Bass.Net.dll
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.pdb
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.xml
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.dll
+C:\Users\CH210005\Desktop\HDT647-RTK\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT647.pdb
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\NAudio.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Holtek.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Holtek.pdb
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\Holtek.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\Holtek.pdb
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\AWToolLIB2.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.pdb
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\AWToolLIB2.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\NAudio.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.dll
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.pdb
+C:\Users\CH210005\Desktop\Holtek\HDT647 Code\New Code\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.dll
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.pdb
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.dll
+C:\Users\CH210005\Desktop\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.pdb
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.dll
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.pdb
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.dll
+E:\2.doOfficeWork_589_647_653\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Holtek.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\Holtek.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT647\SRC\HDT647-CODE\HDT647-CODE\HDT647-Holtek - RepairMES\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\HDT668.dll
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\bin\Debug\HDT668.pdb
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\HDT668.dll
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\HDT668_Debug - 2022.12.13\HDT668_Src\MerryDllFramework_Debug_Holtek\MerryDllFramework\obj\Debug\HDT668.pdb
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\bin\Debug\HDT668.dll
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\bin\Debug\HDT668.pdb
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\obj\Debug\HDT668.dll
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT668\SRC\Repair\HDT668_Src 2022.12.13\MerryDllFramework\obj\Debug\HDT668.pdb
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\HDT668.dll
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\HDT668.pdb
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\HDT668.dll
+D:\VNMerryTest\688\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\HDT668.pdb
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.Form1.resources
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.newPro.resources
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\HDT668.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\HDT668.pdb
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\HDT668.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\HDT668.pdb
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.Form2.resources
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.Properties.Resources.resources
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\obj\Debug\MerryDllFramework.Form3.resources
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\HDT668.dll.config
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\BouncyCastle.Crypto.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\Google.Protobuf.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\K4os.Compression.LZ4.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\K4os.Hash.xxHash.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\MySql.Data.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Buffers.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.IO.Pipelines.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Memory.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Numerics.Vectors.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\BouncyCastle.Crypto.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\Google.Protobuf.pdb
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\Google.Protobuf.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\K4os.Compression.LZ4.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\K4os.Hash.xxHash.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\MySql.Data.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Buffers.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.IO.Pipelines.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Memory.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Numerics.Vectors.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VNMerryTest\668\HDT668-012\HDT668_Src 2022.12.17\HDT668_Src 2022.12.17\MerryDllFramework\bin\Debug\System.Threading.Tasks.Extensions.xml

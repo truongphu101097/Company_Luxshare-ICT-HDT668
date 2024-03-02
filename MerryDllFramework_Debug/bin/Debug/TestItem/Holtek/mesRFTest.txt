@@ -1,0 +1,9 @@
+4,Enter_Dongle_DFU_Mode,N/A,N/A,N/A,1,EnterDFU
+7,Pairing_CBC,N/A,N/A,N/A,1,HeadsetPair_CBC
+8,RF_Left_Power,N/A,-52,-38,2,LeftRSSI
+9,RF_Right_Power,N/A,-52,-38,2,RightRSSI
+10,Enter_Headset_Model,N/A,N/A,N/A,1,HeadsetModel
+11,RF_Left_RSSI_Headset,N/A,-52,-38,2,LeftRSSI
+12,RF_Right_RSSI_Headset,N/A,-52,-38,2,RightRSSI
+13,Enter_Dongle_Model,N/A,N/A,N/A,1,DongleModel
+14,Exit_Dongle_DFU_Mode+,N/A,N/A,N/A,1,ExitDFU

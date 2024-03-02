@@ -1,0 +1,8 @@
+0,-3s,N/A,N/A,N/A,4,dllname=Common&延时=sleep&时间=3000
+1,Enter_Dongle_DFU_Mode,N/A,N/A,N/A,1,EnterDFU
+2,Enter_Dongle_Model,N/A,N/A,N/A,1,DongleModel
+3,Read_Dongle_Station_Flag|2000,N/A,N/A,N/A,3,ReadTestStationInfo
+4,Read_Holtek_FW,N/A,V1.8.5.1,V1.8.5.1,1,ReadRTKFW
+5,Check_Holtek_Dongle_FW,N/A,V100.0.1.14,V100.0.1.14,1,ReadFW
+6,Read_Write_Dongle_BDA,N/A,N/A,N/A,3,Read_Write_Dongle_BDA
+7,Enter_Dongle_DUT_Mode,N/A,N/A,N/A,1,EnterDUT

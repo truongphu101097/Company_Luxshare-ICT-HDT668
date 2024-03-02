@@ -1,0 +1,6 @@
+﻿TXPID=018B
+TXVID=03F0
+RXPID=058B
+RXVID=03F0
+devicename=HyperX
+chemID=46 23

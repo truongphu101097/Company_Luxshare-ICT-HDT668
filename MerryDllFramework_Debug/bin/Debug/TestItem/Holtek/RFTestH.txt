@@ -1,0 +1,15 @@
+1,Check_Holtek_HeadsetFW_CBC,N/A,V100.0.1.10,V100.0.1.10,1,HeadsetReadFW_CBC
+2,Get_Headset_BDA_MES,N/A,N/A,N/A,6,dllname=MES&method=GetBDFromMES
+3,Write_Headset_BDA_MES,N/A,N/A,N/A,3,HeadsetWirteBD_CBC
+4,Enter_Dongle_DFU_Mode,N/A,N/A,N/A,1,EnterDFU
+5,Bar_Code_Window,N/A,N/A,N/A,6,dllname=MES&扫条码=BarCodeWindow
+6,Query_BD_NoBy_SN,N/A,N/A,N/A,6,dllname=MES&获取BD和=QueryBDNoBySN
+7,Pairing_CBC,N/A,N/A,N/A,1,HeadsetPair_CBC
+8,RF_Left_Power,N/A,-52,-38,2,LeftRSSI
+9,RF_Right_Power,N/A,-52,-38,2,RightRSSI
+10,Enter_Headset_Model,N/A,N/A,N/A,1,HeadsetModel
+11,RF_Left_RSSI_Headset,N/A,-52,-38,2,LeftRSSI
+12,RF_Right_RSSI_Headset,N/A,-52,-38,2,RightRSSI
+13,Enter_Dongle_Model,N/A,N/A,N/A,1,DongleModel
+14,Exit_Dongle_DFU_Mode+,N/A,N/A,N/A,1,ExitDFU
+15,Binding,N/A,N/A,N/A,4,dllname=MES&获取BD和=Binding

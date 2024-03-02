@@ -1,0 +1,15 @@
+1,Enter_Dongle_DFU_Mode,N/A,N/A,N/A,1,EnterDFU
+2,Check_Holtek_Dongle_FW,N/A,V100.0.1.10,V100.0.1.10,1,ReadFW
+3,Read_Dongle_BDA|2000,N/A,N/A,N/A,3,ReadBDA
+4,Enter_Headset_Model,N/A,N/A,N/A,1,HeadsetModel
+5,Check_Holtek_HeadsetFW,N/A,V100.0.1.10,V100.0.1.10,1,ReadFW
+6,Turn_On_LED_Key_Test_Mode,N/A,N/A,N/A,1,OpenLEDAndButtomModel
+7,Open_Blue_Headset_LED,N/A,N/A,N/A,1,OpenLED2
+8,Open_Green_Headset_LED,N/A,N/A,N/A,1,OpenLED1
+9,Close_Headset_LED,N/A,N/A,N/A,1,CloseLED
+10,Press_Headset_Mute,N/A,N/A,N/A,1,MuteButtonTest
+11,Press_Headset_Reduce,N/A,N/A,N/A,1,VolumeDownButtonTest
+12,Press_Headset_Add,N/A,N/A,N/A,1,VolumePlusButtonTest
+13,Turn_Off_LED_Key_Test_Mode,N/A,N/A,N/A,1,CloseLEDAndButtomModel
+14,Enter_Dongle_Model,N/A,N/A,N/A,1,DongleModel
+15,Exit_Dongle_DFU_Mode+,N/A,N/A,N/A,1,ExitDFU
